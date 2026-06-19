@@ -5,23 +5,51 @@
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Scikit--Learn-green)
 
-## Project Overview
-
-Customer churn is one of the most critical challenges faced by telecom companies...
-
 ## Overview
-Built an end-to-end Telecom Customer Churn Analysis and Prediction solution using Python, SQL, Machine Learning, and Power BI to identify churn drivers, predict at-risk customers, and provide actionable retention strategies.
+
+Built an end-to-end Telecom Customer Churn Analysis and Prediction solution using Python, SQL, Machine Learning, and Power BI to analyze customer behavior, predict churn risk, identify churn drivers, and provide actionable business recommendations.
+
+## Project Highlights
+
+✔ Analyzed 7,000+ telecom customer records
+
+✔ Built Machine Learning models for churn prediction
+
+✔ Achieved 80.7% Accuracy and 84.2% ROC-AUC
+
+✔ Developed an interactive 3-page Power BI dashboard
+
+✔ Identified high-risk customers and key churn drivers
+
+✔ Delivered data-driven business recommendations
+
+## Dashboard Preview
+
+### Executive Overview
+
+![Executive Overview](Dashboard%20Screenshots/1_Executive_Overview.png)
+
+### Risk Analysis
+
+![Risk Analysis](Dashboard%20Screenshots/2_Risk_Analysis.png)
+
+### Business Insights
+
+![Business Insights](Dashboard%20Screenshots/3_Business_Insights.png)
 
 ## Tools & Technologies
+
 - Python
 - SQL
 - Power BI
 - DAX
 - Machine Learning
 - Pandas
+- NumPy
 - Scikit-Learn
 
 ## Key Findings
+
 - Month-to-Month contracts show the highest churn risk.
 - Low-tenure customers are more likely to churn.
 - Higher monthly charges increase churn probability.
@@ -56,6 +84,7 @@ Built an end-to-end Telecom Customer Churn Analysis and Prediction solution usin
 - Strategic Recommendations
 
 ## Business Recommendations
+
 1. Promote long-term contracts.
 2. Target new customers with retention campaigns.
 3. Personalize offers for high-charge customers.
@@ -63,25 +92,29 @@ Built an end-to-end Telecom Customer Churn Analysis and Prediction solution usin
 5. Encourage automatic payment methods.
 
 ## Skills Demonstrated
+
 - Data Cleaning
-- EDA
+- Exploratory Data Analysis (EDA)
 - SQL Analytics
 - Machine Learning
 - Predictive Analytics
 - Power BI
 - DAX
+- Data Visualization
 - Data Storytelling
+- Business Intelligence
 
-## Dashboard Screenshots
+## Repository Contents
 
-### Executive Overview
-(Add Screenshot)
-
-### Risk Analysis
-(Add Screenshot)
-
-### Business Insights
-(Add Screenshot)
+- 01_EDA.ipynb
+- 02_Machine_Learning.ipynb
+- telecom_churn_analysis.sql
+- telecom_churn_cleaned.csv
+- Telecom_Customer_Churn_Prediction_Dashboard.pbix
+- Dashboard Screenshots
 
 ## Author
-Pritam Patil
+
+**Pritam Patil**
+
+Aspiring Data Analyst | SQL | Python | Power BI | Machine Learning
