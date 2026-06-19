@@ -1,5 +1,14 @@
 # Telecom Customer Churn Analysis and Prediction
 
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![SQL](https://img.shields.io/badge/SQL-Analytics-orange)
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Scikit--Learn-green)
+
+## Project Overview
+
+Customer churn is one of the most critical challenges faced by telecom companies...
+
 ## Overview
 Built an end-to-end Telecom Customer Churn Analysis and Prediction solution using Python, SQL, Machine Learning, and Power BI to identify churn drivers, predict at-risk customers, and provide actionable retention strategies.
 
